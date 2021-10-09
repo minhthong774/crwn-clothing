@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components';
+import styled, { css } from "styled-components";
 
 const buttonStyles = css`
   background-color: black;
@@ -52,7 +52,7 @@ export const CustomButtonContainer = styled.button`
   background-color: black;
   color: white;
   text-transform: uppercase;
-  font-family: 'Open Sans Condensed';
+  font-family: "Open Sans Condensed";
   font-weight: bolder;
   border: none;
   cursor: pointer;
